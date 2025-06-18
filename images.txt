@@ -1,5 +1,6 @@
 nginx:1.23.0
 redis
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
