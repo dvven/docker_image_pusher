@@ -1,5 +1,5 @@
 nginx:1.23.0
-lfnovo/open_notebook:latest
+open_notebook:latest
 redis
 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
 #支持私库
